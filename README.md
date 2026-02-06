@@ -72,4 +72,4 @@ Some things you might want to change:
 
 ## License
 
-MIT
+[GPLv3](LICENSE.md)
